@@ -1,0 +1,27 @@
+/* * {
+    margin: 50px;
+} */
+
+body {
+    background: #ecf0f1;
+    color: #000;
+}
+
+.BTN {
+    background: #fff;
+    color: #000;
+    font-size: 18px;
+    padding: 10px 63px;
+    border-radius: 50px;
+    border: 1px solid #fff;
+    margin: 10px 0px 10px 10px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.anim {
+    box-shadow: 0px 15px 18px 0px tomato;
+    opacity: 0.5;
+}
